@@ -1,0 +1,16 @@
+# Ambiente virtual (cada máquina recria o seu)
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente / segredos
+.env
+
+# Arquivos do editor e do sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
