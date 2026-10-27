@@ -1,0 +1,4 @@
+# Dependências do backend (testado com Python 3.14)
+fastapi>=0.115
+uvicorn>=0.30
+scikit-learn>=1.5
